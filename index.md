@@ -1,4 +1,4 @@
-![Image](ilya-pavlov-OqtafYT5kTw-unsplash.jpg) <br />
+![Image](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg) <br />
 Anna Anton's Cit281 GitHub Repository <br />
 [Lab1](https://github.com/annaantonn/Lab1)<br />
 [Project1](https://github.com/annaantonn/Project1)<br />
