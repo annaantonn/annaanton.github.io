@@ -1,19 +1,19 @@
 Anna Anton's Cit281 GitHub Repository <br />
-[Lab1](https://github.com/annaantonn/Lab1)
-[Project1](https://github.com/annaantonn/Project1)
-[Lab2](https://github.com/annaantonn/Lab2)
-[Project2](https://github.com/annaantonn/Project2)
-[Lab3](https://github.com/annaantonn/Lab3)
-[Project3](https://github.com/annaantonn/Project3)
-[Lab4](https://github.com/annaantonn/Lab4)
-[Project4](https://github.com/annaantonn/Project4)
-[Lab5](https://github.com/annaantonn/Lab5)
-[Project5](https://github.com/annaantonn/Project5)
-[Lab6](https://github.com/annaantonn/Lab6)
-[Project6](https://github.com/annaantonn/Project6)
-[Lab7](https://github.com/annaantonn/Lab7)
-[Lab8](https://github.com/annaantonn/Lab8)
-[Lab9](https://github.com/annaantonn/Lab9)
+[Lab1](https://github.com/annaantonn/Lab1)<br />
+[Project1](https://github.com/annaantonn/Project1)<br />
+[Lab2](https://github.com/annaantonn/Lab2)<br />
+[Project2](https://github.com/annaantonn/Project2)<br />
+[Lab3](https://github.com/annaantonn/Lab3)<br />
+[Project3](https://github.com/annaantonn/Project3)<br />
+[Lab4](https://github.com/annaantonn/Lab4)<br />
+[Project4](https://github.com/annaantonn/Project4)<br />
+[Lab5](https://github.com/annaantonn/Lab5)<br />
+[Project5](https://github.com/annaantonn/Project5)<br />
+[Lab6](https://github.com/annaantonn/Lab6)<br />
+[Project6](https://github.com/annaantonn/Project6)<br />
+[Lab7](https://github.com/annaantonn/Lab7)<br />
+[Lab8](https://github.com/annaantonn/Lab8)<br />
+[Lab9](https://github.com/annaantonn/Lab9)<br />
 [Project7]()
 
 
