@@ -1,1 +1,1 @@
-[Lab1](https://annaantonn.github.io/Lab1/)
+[Lab1](https://github.com/annaantonn/Lab1)
