@@ -1,5 +1,5 @@
 ![Image](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg) <br />
-Anna Anton's Cit281 GitHub Repository <br />
+**Anna Anton's Cit281 GitHub Repository** <br /> <br />
 [Lab1](https://github.com/annaantonn/Lab1)<br />
 [Project1](https://github.com/annaantonn/Project1)<br />
 [Lab2](https://github.com/annaantonn/Lab2)<br />
